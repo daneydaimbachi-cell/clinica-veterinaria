@@ -1,17 +1,12 @@
+
 {
   "name": "clinica-veterinaria",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "directories": {
-    "doc": "docs",
-    "test": "tests"
-  },
+  "description": "Sistema de gestión de citas para una clínica veterinaria",
+  "main": "src/clientesMascotas.js",
   "scripts": {
     "test": "node --test"
-},
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs"
+  }
 }
+
+
